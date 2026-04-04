@@ -1,7 +1,6 @@
 # 🧮 Basic Calculator in C# / Calculadora Básica en C#
 
-![C#](https://img.shields.io)
-![Status](https://img.shields.io)
+
 
 ## 🇪🇸 Sobre el Proyecto
 Este es mi primer proyecto funcional en C#. Soy un estudiante de 17 años de España con la meta de convertirme en **desarrollador de VR y Videojuegos en EE. UU.** 🇺🇸. Este repositorio marca el inicio de mi camino técnico.
